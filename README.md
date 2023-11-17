@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋! My name is Divyanshu Singh and I'm a web develper, from India</h1>
+<h1 align="left">Hi 👋! My name is Divyanshu Singh and I'm a web developer from India</h1>
 
 ###
 
