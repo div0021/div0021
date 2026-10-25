@@ -7,7 +7,7 @@ Web developer
 I love to code and learn new things. I've learned many of the latest technologies related to web development. I am currently new to open source and am starting to figure out how things work in open source. Working on and contributing to real-world projects, I believe, is a great way to demonstrate and improve your skills. And also i'm a learner.
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [divcd943@gmail.com](mailto:divcd943@gmail.com)
+* ✉️  You can contact me at [socialdiv001@gmail.com](mailto:socialdiv001@gmail.com)
 * 🧠  I'm learning soket.io
 
 ### Skills
